@@ -1,2 +1,2 @@
-Descrição do Sistema de Gerenciamento de Escritório de Despachante.
+Sistema de Gerenciamento de Escritório de Despachante.
 
