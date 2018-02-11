@@ -1,1 +1,2 @@
-Meu Primeiro Sistema no GIT
+Descrição do Sistema de Gerenciamento de Escritório de Despachante.
+
